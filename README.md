@@ -2,9 +2,7 @@
 
 A make.fun entry for [Sum up 22 November's world news in one image](https://make.fun/bounty/news-image-20261122).
 
-![bounty](https://make.fun/badge/news-image-20261122.svg)
-![rank](https://make.fun/badge/news-image-20261122/haoye2023/makefun-news22-entry/rank.svg)
-![reward](https://make.fun/badge/news-image-20261122/haoye2023/makefun-news22-entry/reward.svg)
+[![bounty](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122) [![rank](https://make.fun/badge/news-image-20261122/haoye2023/makefun-news22-entry/rank.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122) [![reward](https://make.fun/badge/news-image-20261122/haoye2023/makefun-news22-entry/reward.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
 
 `main.py` is a pure Python (standard library only) program that draws a
 newspaper front page of the day's world news at run time — masthead, a
